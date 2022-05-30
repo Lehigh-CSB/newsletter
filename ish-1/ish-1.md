@@ -44,7 +44,7 @@ We won’t publicly shame you for still inquiring in the GroupMe, but for everyo
 
 > Honestly, what is with all these Star Wars references in the headings… this madman must be stopped.
 
-![OSI Full Banner](https://drive.google.com/file/d/1MV6Jf4b-IvY6oYI3JseFZjakJ3EhntAu/view?usp=sharing)
+![OSI Full Banner](https://github.com/Lehigh-CSB/newsletter/blob/main/ish-1/assets/OSI%2022%20Full-Banner.png?raw=true "CSB-Graduates-Class-2022")
 
 ## Attack of the FYS
 
