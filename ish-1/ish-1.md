@@ -182,7 +182,11 @@ _**[Read more](TBD)**_
 
 ## Ⅱ. Attack of the FYS 👾
 
+**Your second email today:** how lucky! We’re excited to announce that we have 63 first-years coming into the CSB program this year as the Class of 2026.  
+
 ## Ⅲ. Revenge of the FYMentorship-Program ⚔️
+
+mentorship program is back! We’re excited to have a new way to connect with our first-year students, and we’re excited to have a new way to help them succeed.
 
 ## Email ReHash Map (Email Hash Map / EHM)
 
