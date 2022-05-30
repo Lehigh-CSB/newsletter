@@ -42,9 +42,88 @@ We won’t publicly shame you for still inquiring in the GroupMe, but for everyo
 
 ## The Phantom CSB-Class’24
 
-> Honestly, what is with all these Star Wars references in the headings… this madman must be stopped.
+> Honestly, what is with all these Star Wars references... this madman must be stopped.
+
+While moving onto bigger and better things, we wanted to take this section to recognize the significant achievement of our outgoing CSB seniors. Class of 2022, this is your first and last CSBA newsletter, but we're excited to be able to share it with you and to celebrate your graduation.
+    
+### List of CSB Graduates Class of 2022
+
+---
+
+<div class="cols"> 
+    <style type = text/css>
+    .cols { display: flex; width: 100%; }
+    .cols div { flex-grow: 1; }
+    </style>
+    <div>
+        <div>Gustavo Adame-Delarosa</div>
+        <div>Jordon Baum</div>
+        <div>Kyle Burke</div>
+        <div>Sony Chen</div>
+        <div>Zachary Coriarty</div>
+        <div>Haydn Davies</div>
+        <div>Zack Elliott</div>
+        <div>Bora Fanuscu</div>
+        <div>Gary Fishkin</div>
+        <div>Omid Ghazizadeh</div>
+    </div> 
+    <div>
+        <div>Julio Gonzalez</div>
+        <div>Hannah Gotwalt</div>
+        <div>Connor Greene</div>
+        <div>Matthew Gunton</div>
+        <div>Brock Herring</div>
+        <div>Sarah Horne</div>
+        <div>Surui Huang</div>
+        <div>Dave Jha</div>
+        <div>Daniel Karkhut</div>
+        <div>Joshua Krinsky</div>    
+    </div> 
+    <div>
+        <div>Ronan Leahy</div>
+        <div>Max Leibowitz</div>
+        <div>Hannah Leland</div>
+        <div>Luke Lenny</div>
+        <div>Antonio Liav</div>
+        <div>Leo Liu</div>
+        <div>Sarah Loher</div>
+        <div>Peter Luba</div>
+        <div>Andrew MacCausland</div>
+        <div>Sahil Malhotra</div>
+    </div> 
+    <div>
+        <div>Will McCormick</div>
+        <div>Meghna Mishra</div>
+        <div>Alec Mitrokostas</div>
+        <div>Chris Munoz</div>
+        <div>Tyler Nguyen</div>
+        <div>Michael Port</div>
+        <div>Swetha Ramesh</div>
+        <div>Rosa Cortez Rosales</div>
+        <div>Sam Sausville</div>
+        <div>Graham Shanno</div>
+    </div> 
+    <div>
+        <div>Jenna Simon</div>
+        <div>Brian Snyder</div>
+        <div>Dylan Staniszewski</div>
+        <div>Kenneth Straw</div>
+        <div>Jeff Van Buskirk</div>
+        <div>Manasi Vitthanala</div>
+        <div>Alan Wang</div>
+        <div>Joe Wesselman</div>
+        <div>Joshua Yang</div>
+        <div>Zhiyi Iris Zheng</div>
+    </div> 
+</div>
+
+---
 
 ![OSI Full Banner](https://github.com/Lehigh-CSB/newsletter/blob/main/ish-1/assets/OSI%2022%20Full-Banner.png?raw=true "CSB-Graduates-Class-2022")
+
+If everyone can take a brief moment, there are posts on both the CSBA Instagram and LinkedIn Group pages, to show some love ❤️ to our seniors. From the entire CSBA, we wish you well for whatever you put your mind towards. 👋
+
+P.S. **Seniors**, It is not too late to still fill out this [Farewell Form](https://forms.gle/eSsWPQQTLhVpsEMs8) and get a better picture and quote to reflect on your CSB experience and your plans for the future.
 
 ## Attack of the FYS
 
