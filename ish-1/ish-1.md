@@ -1,5 +1,11 @@
 # ISH-1
 
+![ISH Banner](https://github.com/Lehigh-CSB/newsletter/blob/main/assets/ISH%20Banner.png?raw=true "The CSBA Newsletter")
+
+<br />
+
+Wednesday, June 1, 2022 *by Computer Science & Business Association*
+
 <!-- Uncomment the following to get the style for HTML -->
 <!--
 <style>
@@ -16,6 +22,8 @@
     margin: 100px;
 </style>
 -->
+
+<br />
 
 **Hey CSBs,**
 
