@@ -72,7 +72,7 @@ Welcome to the first issue of the Computer Science & Business Association Newsle
 
 **Our roadmap for success...** The board already had their first meeting[^1] in early May and put together an ambitious plan for the next academic year, including this regular newsletter, an overhauled CSBA first-year mentorship program, a shift in focus to multi-club-sponsored workshops, and the return of CSB-NYC. You can read our full-year roadmap [here](https://github.com/Lehigh-CSB/roadmap-22 "roadmap-22").[^GitHub]
 
-_**[Read more](meb.md "Meet the Executive Board")**_[^GitHub]
+_**[Read more](https://github.com/Lehigh-CSB/roadmap-22/blob/main/meb.md "Meet the Executive Board")**_[^GitHub]
 
 <br />
 <br />
@@ -83,9 +83,9 @@ _**[Read more](meb.md "Meet the Executive Board")**_[^GitHub]
 
 **A new place for discussion... or just notifications...** If you were at the board elections, some might recall a demand for a more organized place for discussion on registration than the semesterly slew of GroupMe messages (eg., Piazza). Another issue this year’s board wanted to address was task management and transparency. It just so happens though, that GitHub has a product line combination perfect 🌟 for these needs: a discussion forum with announcement, Q&A (can vote best answer), and general discussion channels; kanban-board-styled task views; and role-based permissions for separate public and member access.
 
-We won’t publicly shame you for still inquiring in the GroupMe, but for everyone’s sanity, we ask you to move the questions that others might also have to this new space 👍. 
+We won’t publicly shame you for still inquiring in the GroupMe, but for everyone’s sanity, we ask you to move the questions that others might also have to this new space 👍.
 
-_**[Read more](TBD)**_ | _**[Join the GitHub](TBD)**_ 
+_**[Read more](https://github.com/Lehigh-CSB)**_ | _**[Join the GitHub](https://forms.gle/fQsAv6Y4CFwRLUov5)**_ 
 
 <br />
 <br />
@@ -195,13 +195,14 @@ _**[Read more](TBD)**_
 ### List of starting tasks for FYS
 
 1. For future reference of the Welcome to the CSB program letter (W2CSB) remember to bookmark the link below or star/flag 🚩 the email.
-2. Join the [CSB 2026 GroupMe]() and program-wide [CSB GroupMe]() 💬.
+2. Join the [CSB 2026 GroupMe](https://groupme.com/join_group/87218904/3qYTsnaZ) and program-wide [CSB GroupMe](https://groupme.com/join_group/35276853/t4yllUCs) 💬.
 3. Review the First-Year Guide (FYGuide) for upcoming fall semester registration: July 18-22.
-4. Keep in contact with your assigned mentor when they reach out.
+4. Provide us information so we can pair you with a mentor: [CSBA Mentorship Program 2022-2023 | Mentees](https://forms.gle/dJJERoYFZww3G4tx5)
+5. Keep in contact with your assigned mentor when they reach out.
 
 <br />
 
-_**[Read the W2CSB](TBD)**_ | _**[Read the FYGuide](TBD)**_
+_**[Read the W2CSB](https://github.com/Lehigh-CSB/roadmap-22/blob/main/w2csb.md)**_ | _**[Read the FYGuide](TBD)**_
 
 <br />
 <br />
@@ -210,9 +211,14 @@ _**[Read the W2CSB](TBD)**_ | _**[Read the FYGuide](TBD)**_
 
 <br />
 
-**Speaking of supporting FYS:** the first-year mentorship program is back! We’re excited to have a chance to connect with our first-year students, and try new ways to help them succeed.
+**Speaking of supporting FYS:** the first-year mentorship program is back! We’re excited to have a chance to connect with our first-year students with a revamped structure, and try new ways to help them succeed.
 
-- **Sign up to become a mentor!** It is not too late to still sign up, 
+- **Sign up to become a mentor!** We are still looking for more people so it is not too late to sign up: [CSBA Mentorship Program 2022-2023 | Mentors](https://forms.gle/dP1FLmsREHX23Ymt6)
+- **Mentors are being rewarded...** for their time and effort, we’re excited to see what you have to bring to the table.
+
+The events created by this restructured program are not just for the first-year students, but are open to all CSB students.
+
+_**[Read more](https://docs.google.com/document/d/1pjEoheXrlzp9ZYbUKmMRqLZxe1k48QzdTgLj_UaFh9c/edit?usp=sharing)**_
 
 <br />
 <br />
@@ -224,7 +230,5 @@ Internships
 Research Opportunities
 Other
 
-[^1]: Read the meeting minutes here: [Notes - CSBA Eboard 22-23](https://docs.google.com/document/d/1B_UmhUm2qXKQ78tFTR28zcZbUWlV92OEfWZWMGD7PPI/edit?usp=sharing "EBM-1")[^Google]
-[^Google]: You need to be part of the Shared Google Drive to see the document.[^Form]
-[^GitHub]: You need to be part of the GitHub organization to see the full posts.[^Form]
-[^Form]: Please use this form to request access to our resources: [Sign-Up Form]()
+[^1]: Read the meeting minutes here: [Notes - CSBA Eboard 22-23](https://docs.google.com/document/d/1B_UmhUm2qXKQ78tFTR28zcZbUWlV92OEfWZWMGD7PPI/edit?usp=sharing "EBM-1")
+[^GitHub]: You need to be part of the GitHub organization to see the full posts. Please use this form to request access to our resources: [Sign-Up Form](https://forms.gle/fQsAv6Y4CFwRLUov5)
