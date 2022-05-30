@@ -171,7 +171,7 @@ _**[Read more](TBD)**_
 
 <br />
 
-**Best of luck graduates...** If everyone can take a brief moment, there are posts on both the CSBA Instagram and LinkedIn Group pages, to show some love ❤️ to our seniors. From the entire CSBA, we wish you well for whatever you put your mind towards. 👋
+**Best of luck graduates...** If everyone can take a brief moment, there are posts on both the CSBA Instagram and LinkedIn Group pages, so you can show some love ❤️ to our graduates. From the entire CSBA, we wish you well for whatever you put your mind towards. 👋
 
 _**[Read more](TBD)**_
 
@@ -182,7 +182,7 @@ _**[Read more](TBD)**_
 
 ## Ⅱ. Attack of the FYS 👾
 
-**Your second email today...** how lucky! We’re excited to announce that we have 63 first-years coming into the CSB program this year as the Class of 2026. First year students (FYS) please do not be overwhelmed by everything we just blasted to you: you have a lot of time to go over it and the entire CSBA community to support you through it.
+**Welcome Class of 2026...** Congratulations on your addmisison to Lehigh University and the Computer Science & Business program. We’re excited to announce that we have 63 first-years coming into the CSB program this fall. First year students (FYS), everything we just blasted to you might seem overwhelming, but you have a lot of time to go over it and the entire CSBA community to support you through it.
 
 ## Ⅲ. Revenge of the FYMentorship-Program ⚔️
 
