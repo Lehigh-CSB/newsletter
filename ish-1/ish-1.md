@@ -62,7 +62,7 @@ Welcome to the first issue of the Computer Science & Business Association Newsle
 
 **To contact all of us collectively:** please use this new incsba@lehigh.edu email address. Please feel free to connect with us on GitHub and LinkedIn.
 
-**Our roadmap for sucess...** The board already had their first meeting[^1] in early May and put together an ambitious plan for the next academic year, including this regular newsletter, an overhauled CSBA first-year mentorship program, a shift in focus to multi-club-sponsored workshops, and the return of CSB-NYC. You can read our full-year roadmap [here](https://github.com/Lehigh-CSB/roadmap-22 "roadmap-22").[^GitHub]
+**Our roadmap for success...** The board already had their first meeting[^1] in early May and put together an ambitious plan for the next academic year, including this regular newsletter, an overhauled CSBA first-year mentorship program, a shift in focus to multi-club-sponsored workshops, and the return of CSB-NYC. You can read our full-year roadmap [here](https://github.com/Lehigh-CSB/roadmap-22 "roadmap-22").[^GitHub]
 
 _**[Read more](meb.md "Meet the Executive Board")**_[^GitHub]
 
