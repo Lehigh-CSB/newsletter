@@ -1,6 +1,7 @@
 # ISH-1
 
-
+<!-- Uncomment the following to get the style for HTML -->
+<!--
 <style>
     /* h2 {
         color: #63b1dc;
@@ -14,6 +15,7 @@
     }
     margin: 100px;
 </style>
+-->
 
 **Hey CSBs,**
 
