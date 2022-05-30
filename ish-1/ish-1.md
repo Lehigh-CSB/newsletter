@@ -182,7 +182,7 @@ _**[Read more](TBD)**_
 
 ## Ⅱ. Attack of the FYS 👾
 
-**Your second email today:** how lucky! We’re excited to announce that we have 63 first-years coming into the CSB program this year as the Class of 2026.  
+**Your second email today...** how lucky! We’re excited to announce that we have 63 first-years coming into the CSB program this year as the Class of 2026. First year students (FYS) please do not be overwhelmed by everything we just blasted to you: you have a lot of time to go over it and the entire CSBA community to support you through it.
 
 ## Ⅲ. Revenge of the FYMentorship-Program ⚔️
 
