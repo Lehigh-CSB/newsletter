@@ -6,23 +6,6 @@
 
 Wednesday, June 1, 2022 *by Computer Science & Business Association*
 
-<!-- Uncomment the following to get the style for HTML -->
-<!--
-<style>
-    /* h2 {
-        color: #63b1dc;
-        font-family: "Merriweather";
-        font-weight: bold;
-    } */
-    .read-more {
-        color: #63b1dc;
-        font-family: "Merriweather";
-        font-weight: bold;
-    }
-    margin: 100px;
-</style>
--->
-
 <br />
 
 **Hey CSBs,**
@@ -177,8 +160,6 @@ _**[Read more](https://github.com/Lehigh-CSB)**_ | _**[Join the GitHub](https://
 
 **Best of luck graduates...** If everyone can take a brief moment, there are posts on both the CSBA Instagram and LinkedIn Group pages, so you can show some love ❤️ to our graduates. From the entire CSBA, we wish you well for whatever you put your mind towards. 👋
 
-_**[Read more](TBD)**_
-
 ***P.S. Seniors:** It is not too late to still fill out this [Farewell Form](https://forms.gle/eSsWPQQTLhVpsEMs8) to get a better picture and quote to reflect your CSB experience and plans for the future.*
 
 <br />
@@ -223,12 +204,25 @@ _**[Read more](https://docs.google.com/document/d/1pjEoheXrlzp9ZYbUKmMRqLZxe1k48
 <br />
 <br />
 
-## Email ReHash Map (Email Hash Map / EHM)
+## Goodbye For Now 👋
 
-*since last issue
-Internships
-Research Opportunities
-Other
+<br />
+
+That's all we got for this month: only special stories this time round. You can expect next month to cover the recurring resources: eg.,**Email ReHash Map**, **Upcoming Relevant Events**, and sometimes **A Little Alumni Advice**. Thank you for reading and till next time!
+
+<br />
+
+---
+[![Gmail Badge](https://img.shields.io/badge/-@incsba-ea4335?style=flat-square&labelColor=ea4335&logo=gmail&logoColor=white&link=https://mailto:incsba@lehigh.edu)](mailto:incsba@lehigh.edu)
+[![GitHub Badge](https://img.shields.io/badge/-@Lehigh_CSB-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/Lehigh-CSB/)](https://www.github.com/Lehigh-CSB/)
+[![Linkedin Badge](https://img.shields.io/badge/-@Lehigh_CSB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/4481359/)](https://www.linkedin.com/groups/4481359/)
+[![Instagram Badge](https://img.shields.io/badge/-@lehighcsb-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://www.instagram.com/lehighcsb/)](https://www.instagram.com/lehighcsb/)
+[![GroupMe Badge](https://img.shields.io/badge/-@Lehigh_CSB-00aff0?style=flat-square&labelColor=00aff0&logo=groupme&logoColor=white&link=https://groupme.com/join_group/35276853/t4yllUCs)](https://groupme.com/join_group/35276853/t4yllUCs)
+[![Discord Badge](https://img.shields.io/badge/-@Lehigh_CSB-5865f2?style=flat-square&labelColor=5865f2&logo=discord&logoColor=white&link=https://discord.gg/5EDK9W4FGA)](https://discord.gg/5EDK9W4FGA)
+
+<br />
+
+If you are a recieving this email by mistake and not part of CSB, please contact amr424@lehigh.edu.
 
 [^1]: Read the meeting minutes here: [Notes - CSBA Eboard 22-23](https://docs.google.com/document/d/1B_UmhUm2qXKQ78tFTR28zcZbUWlV92OEfWZWMGD7PPI/edit?usp=sharing "EBM-1")
 [^GitHub]: You need to be part of the GitHub organization to see the full posts. Please use this form to request access to our resources: [Sign-Up Form](https://forms.gle/fQsAv6Y4CFwRLUov5)
