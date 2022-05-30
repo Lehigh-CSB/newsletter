@@ -104,72 +104,74 @@ _**[Read more](TBD)**_
 
 ---
 
-<div class="cols"> 
-    <style type = text/css>
-    .cols { display: flex; width: 100%; }
-    .cols div { flex-grow: 1; }
-    </style>
-    <div>
-        <div>Gustavo Adame-Delarosa</div>
-        <div>Jordon Baum</div>
-        <div>Kyle Burke</div>
-        <div>Sony Chen</div>
-        <div>Zachary Coriarty</div>
-        <div>Haydn Davies</div>
-        <div>Zack Elliott</div>
-        <div>Bora Fanuscu</div>
-        <div>Gary Fishkin</div>
-        <div>Omid Ghazizadeh</div>
+<html>
+    <div class="cols"> 
+        <style type = text/css>
+        .cols { display: flex; width: 100%; }
+        .cols div { flex-grow: 1; }
+        </style>
+        <div>
+            <div>Gustavo Adame-Delarosa</div>
+            <div>Jordon Baum</div>
+            <div>Kyle Burke</div>
+            <div>Sony Chen</div>
+            <div>Zachary Coriarty</div>
+            <div>Haydn Davies</div>
+            <div>Zack Elliott</div>
+            <div>Bora Fanuscu</div>
+            <div>Gary Fishkin</div>
+            <div>Omid Ghazizadeh</div>
+        </div>
+        <div>
+            <div>Julio Gonzalez</div>
+            <div>Hannah Gotwalt</div>
+            <div>Connor Greene</div>
+            <div>Matthew Gunton</div>
+            <div>Brock Herring</div>
+            <div>Sarah Horne</div>
+            <div>Surui Huang</div>
+            <div>Dave Jha</div>
+            <div>Daniel Karkhut</div>
+            <div>Joshua Krinsky</div>
+        </div>
+        <div>
+            <div>Ronan Leahy</div>
+            <div>Max Leibowitz</div>
+            <div>Hannah Leland</div>
+            <div>Luke Lenny</div>
+            <div>Antonio Liav</div>
+            <div>Leo Liu</div>
+            <div>Sarah Loher</div>
+            <div>Peter Luba</div>
+            <div>Andrew MacCausland</div>
+            <div>Sahil Malhotra</div>
+        </div>
+        <div>
+            <div>Will McCormick</div>
+            <div>Meghna Mishra</div>
+            <div>Alec Mitrokostas</div>
+            <div>Chris Munoz</div>
+            <div>Tyler Nguyen</div>
+            <div>Michael Port</div>
+            <div>Swetha Ramesh</div>
+            <div>Rosa Cortez Rosales</div>
+            <div>Sam Sausville</div>
+            <div>Graham Shanno</div>
+        </div>
+        <div>
+            <div>Jenna Simon</div>
+            <div>Brian Snyder</div>
+            <div>Dylan Staniszewski</div>
+            <div>Kenneth Straw</div>
+            <div>Jeff Van Buskirk</div>
+            <div>Manasi Vitthanala</div>
+            <div>Alan Wang</div>
+            <div>Joe Wesselman</div>
+            <div>Joshua Yang</div>
+            <div>Zhiyi Iris Zheng</div>
+        </div>
     </div>
-    <div>
-        <div>Julio Gonzalez</div>
-        <div>Hannah Gotwalt</div>
-        <div>Connor Greene</div>
-        <div>Matthew Gunton</div>
-        <div>Brock Herring</div>
-        <div>Sarah Horne</div>
-        <div>Surui Huang</div>
-        <div>Dave Jha</div>
-        <div>Daniel Karkhut</div>
-        <div>Joshua Krinsky</div>
-    </div>
-    <div>
-        <div>Ronan Leahy</div>
-        <div>Max Leibowitz</div>
-        <div>Hannah Leland</div>
-        <div>Luke Lenny</div>
-        <div>Antonio Liav</div>
-        <div>Leo Liu</div>
-        <div>Sarah Loher</div>
-        <div>Peter Luba</div>
-        <div>Andrew MacCausland</div>
-        <div>Sahil Malhotra</div>
-    </div>
-    <div>
-        <div>Will McCormick</div>
-        <div>Meghna Mishra</div>
-        <div>Alec Mitrokostas</div>
-        <div>Chris Munoz</div>
-        <div>Tyler Nguyen</div>
-        <div>Michael Port</div>
-        <div>Swetha Ramesh</div>
-        <div>Rosa Cortez Rosales</div>
-        <div>Sam Sausville</div>
-        <div>Graham Shanno</div>
-    </div>
-    <div>
-        <div>Jenna Simon</div>
-        <div>Brian Snyder</div>
-        <div>Dylan Staniszewski</div>
-        <div>Kenneth Straw</div>
-        <div>Jeff Van Buskirk</div>
-        <div>Manasi Vitthanala</div>
-        <div>Alan Wang</div>
-        <div>Joe Wesselman</div>
-        <div>Joshua Yang</div>
-        <div>Zhiyi Iris Zheng</div>
-    </div>
-</div>
+</html>
 
 ---
 
