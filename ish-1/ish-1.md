@@ -1,4 +1,4 @@
-# ISH-1
+# The CSBA Newsletter Issue-1
 
 ![ISH Banner](https://github.com/Lehigh-CSB/newsletter/blob/main/assets/ISH%20Banner.png?raw=true "The CSBA Newsletter")
 
@@ -81,11 +81,11 @@ _**[Read more](meb.md "Meet the Executive Board")**_[^GitHub]
 
 <br />
 
-**A new place for discussion... or just notifications...** If you were at the board elections, some might recall a demand for a more organized place for discussion on registration than the semesterly slew of GroupMe messages (eg., Piazza). Another issue this year’s board wanted to address was task management and transparency. It just so happens though, that GitHub has a product line combination perfect for these needs: a discussion forum with announcement, Q&A (can vote best answer), and general discussion channels; kanban-board-styled task views; and role-based permissions for separate public and member access.
+**A new place for discussion... or just notifications...** If you were at the board elections, some might recall a demand for a more organized place for discussion on registration than the semesterly slew of GroupMe messages (eg., Piazza). Another issue this year’s board wanted to address was task management and transparency. It just so happens though, that GitHub has a product line combination perfect 🌟 for these needs: a discussion forum with announcement, Q&A (can vote best answer), and general discussion channels; kanban-board-styled task views; and role-based permissions for separate public and member access.
 
-We won’t publicly shame you for still inquiring in the GroupMe, but for everyone’s sanity, we ask you to move the questions that others might also have to this new space.
+We won’t publicly shame you for still inquiring in the GroupMe, but for everyone’s sanity, we ask you to move the questions that others might also have to this new space 👍. 
 
-_**[Read more](TBD)**_
+_**[Read more](TBD)**_ | _**[Join the GitHub](TBD)**_ 
 
 <br />
 <br />
@@ -96,7 +96,7 @@ _**[Read more](TBD)**_
 
  <!-- < Honestly, what is with all these Star Wars references... this madman must be stopped.  -->
 
-**Congratulations...** While moving onto bigger and better things, we wanted to take this section to recognize the significant achievement of our outgoing CSB seniors. Class of 2022, this is your first and last CSBA newsletter, but we're excited to be able to share it with you and to celebrate your graduation.
+**Congratulations...** While moving onto bigger and better things, we wanted to take this section to recognize the significant achievements 🏆 of our outgoing CSB seniors. Class of 2022, this is your first and last CSBA newsletter, but we're excited to be able to share it with you and to celebrate your graduation.
 
 <br />
 
@@ -186,11 +186,36 @@ _**[Read more](TBD)**_
 
 ## Ⅱ. Attack of the FYS 👾
 
-**Welcome Class of 2026...** Congratulations on your addmisison to Lehigh University and the Computer Science & Business program. We’re excited to announce that we have 63 first-years coming into the CSB program this fall. First year students (FYS), everything we just blasted to you might seem overwhelming, but you have a lot of time to go over it and the entire CSBA community to support you through it.
+<br />
+
+**Welcome Class of 2026...** Congratulations on your addmisison to Lehigh University and the Computer Science & Business program. We’re excited to announce that we have 63 first-years coming into the CSB program this fall. First year students (FYS), everything we just blasted to you might seem overwhelming, but you have a lot of time to go over it and the entire CSBA community to support you through it. We look forward to meeting you all soon.
+
+<br />
+
+### List of starting tasks for FYS
+
+1. For future reference of the Welcome to the CSB program letter (W2CSB) remember to bookmark the link below or star/flag 🚩 the email.
+2. Join the [CSB 2026 GroupMe]() and program-wide [CSB GroupMe]() 💬.
+3. Review the First-Year Guide (FYGuide) for upcoming fall semester registration: July 18-22.
+4. Keep in contact with your assigned mentor when they reach out.
+
+<br />
+
+_**[Read the W2CSB](TBD)**_ | _**[Read the FYGuide](TBD)**_
+
+<br />
+<br />
 
 ## Ⅲ. Revenge of the FYMentorship-Program ⚔️
 
-mentorship program is back! We’re excited to have a new way to connect with our first-year students, and we’re excited to have a new way to help them succeed.
+<br />
+
+**Speaking of supporting FYS:** the first-year mentorship program is back! We’re excited to have a chance to connect with our first-year students, and try new ways to help them succeed.
+
+- **Sign up to become a mentor!** It is not too late to still sign up, 
+
+<br />
+<br />
 
 ## Email ReHash Map (Email Hash Map / EHM)
 
