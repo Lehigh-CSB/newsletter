@@ -208,7 +208,7 @@ _**[Read more](https://docs.google.com/document/d/1pjEoheXrlzp9ZYbUKmMRqLZxe1k48
 
 <br />
 
-That's all we got for this month: only special stories this time round. You can expect next month to cover the recurring resources: eg.,**Email ReHash Map**, **Upcoming Relevant Events**, and sometimes **A Little Alumni Advice**. Thank you for reading and till next time!
+That's all we got for this month: only special stories this time round. You can expect next month to cover the recurring resources: eg., **Email ReHash Map**, **Upcoming Relevant Events**, and sometimes **A Little Alumni Advice**. Thank you for reading and till next time!
 
 <br />
 
