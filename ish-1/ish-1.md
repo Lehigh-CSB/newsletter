@@ -53,9 +53,9 @@ Welcome to the first issue of the Computer Science & Business Association Newsle
 
 **To contact all of us collectively:** please use this new incsba@lehigh.edu email address. Please feel free to connect with us on GitHub and LinkedIn.
 
-**Our roadmap for success...** The board already had their first meeting[^1] in early May and put together an ambitious plan for the next academic year, including this regular newsletter, an overhauled CSBA first-year mentorship program, a shift in focus to multi-club-sponsored workshops, and the return of CSB-NYC. You can read our full-year roadmap [here](https://github.com/Lehigh-CSB/roadmap-22 "roadmap-22").[^GitHub]
+**Our roadmap for success...** The board already had their first meeting[^1] in early May and put together an ambitious plan for the next academic year, including this regular newsletter, an overhauled CSBA first-year mentorship program, a shift in focus to multi-club-sponsored workshops, and the return of CSB-NYC. You can read our full-year roadmap [here](https://github.com/Lehigh-CSB/roadmap-22 "roadmap-22").[^2]
 
-_**[Read more](https://github.com/Lehigh-CSB/roadmap-22/blob/main/meb.md "Meet the Executive Board")**_[^GitHub]
+_**[Read more](https://github.com/Lehigh-CSB/roadmap-22/blob/main/meb.md "Meet the Executive Board")**_[^2]
 
 <br />
 <br />
@@ -225,4 +225,4 @@ That's all we got for this month: only special stories this time round. You can 
 If you are a recieving this email by mistake and not part of CSB, please contact amr424@lehigh.edu.
 
 [^1]: Read the meeting minutes here: [Notes - CSBA Eboard 22-23](https://docs.google.com/document/d/1B_UmhUm2qXKQ78tFTR28zcZbUWlV92OEfWZWMGD7PPI/edit?usp=sharing "EBM-1")
-[^GitHub]: You need to be part of the GitHub organization to see the full posts. Please use this form to request access to our resources: [Sign-Up Form](https://forms.gle/fQsAv6Y4CFwRLUov5)
+[^2]: You need to be part of the GitHub organization to see the full posts. Please use this form to request access to our resources: [Sign-Up Form](https://forms.gle/fQsAv6Y4CFwRLUov5)
