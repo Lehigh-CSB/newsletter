@@ -79,7 +79,7 @@ _**[Read more](https://github.com/Lehigh-CSB)**_ | _**[Join the GitHub](https://
 
  <!-- < Honestly, what is with all these Star Wars references... this madman must be stopped.  -->
 
-**Congratulations...** While moving onto bigger and better things, we wanted to take this section to recognize the significant achievements 🏆 of our outgoing CSB seniors. Class of 2022, this is your first and last CSBA newsletter, but we're excited to be able to share it with you and to celebrate your graduation.
+**Congratulations...** While moving on to bigger and better things, we wanted to take this section to recognize the significant achievements 🏆 of our outgoing CSB seniors. Class of 2022, this is your first and last CSBA newsletter, but we're excited to be able to share it with you and celebrate your graduation.
 
 <br />
 
@@ -169,7 +169,7 @@ _**[Read more](https://github.com/Lehigh-CSB)**_ | _**[Join the GitHub](https://
 
 <br />
 
-**Welcome Class of 2026...** Congratulations on your addmisison to Lehigh University and the Computer Science & Business program. We’re excited to announce that we have 63 first-years coming into the CSB program this fall. First year students (FYS), everything we just blasted to you might seem overwhelming, but you have a lot of time to go over it and the entire CSBA community to support you through it. We look forward to meeting you all soon.
+**Welcome Class of 2026...** Congratulations on your admission to Lehigh University and the Computer Science & Business program. We’re excited to announce that we have 63 first-years coming into the CSB program this fall. First-year students (FYS), everything we just blasted to you might seem overwhelming, but you have a lot of time to go over it and the entire CSBA community to support you through it. We look forward to meeting you all soon.
 
 <br />
 
@@ -183,7 +183,7 @@ _**[Read more](https://github.com/Lehigh-CSB)**_ | _**[Join the GitHub](https://
 
 <br />
 
-_**[Read the W2CSB](https://github.com/Lehigh-CSB/roadmap-22/blob/main/w2csb.md)**_ | _**[Read the FYGuide](TBD)**_
+_**[Read the W2CSB](https://github.com/Lehigh-CSB/roadmap-22/blob/main/w2csb.md)**_ | _**[Read the FYGuide](https://github.com/Lehigh-CSB/Computer-Science-and-Business-Association/blob/main/First%20Year%20guide.pdf)**_
 
 <br />
 <br />
@@ -208,7 +208,7 @@ _**[Read more](https://docs.google.com/document/d/1pjEoheXrlzp9ZYbUKmMRqLZxe1k48
 
 <br />
 
-That's all we got for this month: only special stories this time round. You can expect next month to cover the recurring resources: eg., **Email ReHash Map**, **Upcoming Relevant Events**, and sometimes **A Little Alumni Advice**. Thank you for reading and till next time!
+That's all we got for this month: only special stories this time around. You can expect next month to cover the recurring resources: eg., **Email ReHash Map**, **Upcoming Relevant Events**, and sometimes **A Little Alumni Advice**. Thank you for reading and till next time!
 
 <br />
 
@@ -222,7 +222,7 @@ That's all we got for this month: only special stories this time round. You can 
 
 <br />
 
-If you are a recieving this email by mistake and not part of CSB, please contact amr424@lehigh.edu.
+If you are receiving this email by mistake and are not part of the CSB program, please contact amr424@lehigh.edu.
 
 [^1]: Read the meeting minutes here: [Notes - CSBA Eboard 22-23](https://docs.google.com/document/d/1B_UmhUm2qXKQ78tFTR28zcZbUWlV92OEfWZWMGD7PPI/edit?usp=sharing "EBM-1")
 [^2]: You need to be part of the GitHub organization to see the full posts. Please use this form to request access to our resources: [Sign-Up Form](https://forms.gle/fQsAv6Y4CFwRLUov5)
