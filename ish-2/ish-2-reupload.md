@@ -42,9 +42,8 @@ Andrea asks that you reach out to her with any questions about CSB! She’s read
 
 **Hello, Class of 2026**… It’s us again! We would like to give y'all some quick reminders. 
 
-1. Fall semester registration is coming sooner than you think. Be ready to register for the week of July 18th, so keep reviewing the FY Guide and asking your mentor any questions. 
-2. Please keep in contact with your mentor when they reach out. 
-3. If you haven’t already, please join the [CSB 2026 GroupMe](https://web.groupme.com/join_group/87218904/3qYTsnaZ) and program-wide [CSB GroupMe](https://web.groupme.com/join_group/35276853/t4yllUCs).
+1. Please keep in contact with your mentor when they reach out. 
+2. If you haven’t already, please join the [CSB 2026 GroupMe](https://web.groupme.com/join_group/87218904/3qYTsnaZ) and program-wide [CSB GroupMe](https://web.groupme.com/join_group/35276853/t4yllUCs).
 
 <br />
 
