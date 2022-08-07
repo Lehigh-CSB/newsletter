@@ -64,10 +64,8 @@ Can’t find the email for specific information on something or for an event? Do
 ### `SELECT` opportunities `FROM` lehigh `WHERE` students `IS` csb 🚀 
 
 - [Lehigh Formula SAE is looking for CSB students!](stories/CSB%20Formula%20Interest.rtf)
-- 
 - [test](https://github.com/Lehigh-CSB/newsletter/blob/main/ish-2/stories/Upcoming%20Lehigh%20Events%20and%20Announcements%20Sunday,%20Aug%2007,%202022.rtf#L25)
-
--[test](https://github.com/Lehigh-CSB/newsletter/blob/14c441d2d0a1e41c4def4e0256aff3668b9bafea/ish-2/ish-2-reupload.md#L66)
+- [test](https://github.com/Lehigh-CSB/newsletter/blob/f6e58e934f47622595bb3a583dc109e31ffecd9e/ish-2/stories/Upcoming%20Lehigh%20Events%20and%20Announcements%20Sunday,%20Aug%2007,%202022.rtf#L1)
 <br>
 
 ## 11.  
