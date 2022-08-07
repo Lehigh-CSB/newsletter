@@ -35,9 +35,34 @@ We want to introduce CSB’s newest advisor, Andrea Goff! Andrea has been at Leh
 
 Andrea asks that you reach out to her with any questions about CSB! She’s ready to help with any questions you have. Keep in mind that she **just** came from the EES department :) Regardless, if you have a question about CSB, the EES track, or anything else Lehigh-related, feel free to email her at [ahg212@lehigh.edu](ahg212@lehigh.edu).
 
-<br>
+<br />
 
-## 1. Reminder for Class of `0x2026` 🤖
+## 1. `Hash` Mail `Map` ✉️
+
+<small>Can’t find the email for an important university update or an event? Don’t stress because you will find it here. This recurring section will be your monthly summary of communications sent from the College of Business, P.C. Rossin College of Engineering, and more.</small>
+
+### Lehigh Bot 🤖 Communications
+
+- [Latest Upcoming Lehigh Events and Announcements](https://htmlpreview.github.io/?https://github.com/Lehigh-CSB/newsletter/blob/main/ish-2/stories/Upcoming%20Lehigh%20Events%20and%20Announcements%20Sunday%2C%20Aug%2007%2C%202022.html)* 🔜
+- [Fall 2022 Campus Dining Update](https://htmlpreview.github.io/?https://github.com/Lehigh-CSB/newsletter/blob/main/ish-2/stories/Fall%202022%20Campus%20Dining%20Update.html) 🍕
+- [COVID-Related Information for Fall 2022](https://htmlpreview.github.io/?https://github.com/Lehigh-CSB/newsletter/blob/main/ish-2/stories/COVID-Related%20Information%20for%20Fall%202022.html) 🦠
+
+### `SELECT` opportunities `FROM` lehigh `WHERE` students `IS` csb 🚀 
+- [Lehigh Formula SAE is looking for CSB students!](https://htmlpreview.github.io/?https://github.com/Lehigh-CSB/newsletter/blob/main/ish-2/stories/CSB%20Formula%20Interest.html) 🏎
+<br>
+- [GitHub Student Resourcs](https://htmlpreview.github.io/?https://github.com/Lehigh-CSB/newsletter/blob/main/ish-2/stories/Planning%20your%20next%20online%20Hackathon%3F%20We%20got%20you%20😎.html)* 📄
+
+<small>* These will be one-offs for this edition. You can subscribe to these to get recurring updates</small>
+
+<br />
+
+## 10. `retrieve packet data` from Alumni 👩‍🎓
+
+><br>*“Try to take advantage of all events hosted by CSB, both networking and social. Creating a big network will be extremely beneficial as you complete your degree and beyond. There are Lehigh people everywhere and you never know when you’ll run into someone, either it is at a job opportunity or living in the same city after graduation.”* <br> **Komal Grover ‘20, former Alumni Relations Chair and Professional Development** <br><br>
+
+<br />
+
+## 11. Alert for Class of `0x2026` 👾
 
 **Hello, Class of 2026**… It’s us again! We would like to give y'all some quick reminders.
 
@@ -52,42 +77,6 @@ Andrea asks that you reach out to her with any questions about CSB! She’s read
 **[Orientation:](https://studentaffairs.lehigh.edu/content/fall-orientation)** Thursday, August 18  - Sunday, August 21, 2022
 
 **First Day of Class:** Monday, August 22, 2022
-
-<br>
-
-## 10. `Hash` Mail `Map` ✉️
-
-Can’t find the email for specific information on something or for an event? Don’t stress because you will find the same email here. This will be a recurring section where we will put emails sent from the College of Business or P.C. Rossin College of Engineering, so you don’t have to miss any events that you’re interested in or any important information that you may need.
-
-### Lehigh Bot 🤖 Communications
-
-### `SELECT` opportunities `FROM` lehigh `WHERE` students `IS` csb 🚀 
-
-- [Lehigh Formula SAE is looking for CSB students!](stories/CSB%20Formula%20Interest.rtf)
-- [test](https://github.com/Lehigh-CSB/newsletter/blob/main/ish-2/stories/Upcoming%20Lehigh%20Events%20and%20Announcements%20Sunday,%20Aug%2007,%202022.rtf#L25)
-- [test](https://github.com/Lehigh-CSB/newsletter/blob/f6e58e934f47622595bb3a583dc109e31ffecd9e/ish-2/stories/Upcoming%20Lehigh%20Events%20and%20Announcements%20Sunday,%20Aug%2007,%202022.rtf#L1)
-<br>
-
-## 11.  
-
-### Lehigh Formula SAE is looking for CSB students! 🏎
-
-Please, see their message below:
-
-
-><br>Hello! <br><br>
-I hope your week is going well!  My name is Sarah de Lange and I'm reaching out to you on behalf of Lehigh Racing.  We are Lehigh's Formula SAE team that designs, manufactures, tests, and races a unique Formula 1 style vehicle.  We compete at an annual competition at the Michigan International Speedway against teams of students across the world. <br><br>
-In an effort to diversify our team we are looking for business/IBE/CSB students to help with the important non technical side of our organization.  Below is a list of potential projects, but we are excited to hear about any creative and innovative ideas you will bring to our group! <br><br>
-• Project <br>
-• Create new team website <br>
-• Design vehicle livery <br>
-• Social media coordinator <br>
-• Develop marketing packet for EV sponsorships <br>
-• Merchandise designer <br>
-• Development of intra-team resource archive <br><br>
-We have longer meetings on Saturdays at 10:00AM and a short update meeting on Tuesday at 6:00PM, both in Packard Lab.  Time spent for new members tends to be about two hours a week but you are welcome to spend as much time as you like! <br><br>
-Email us at insae@lehigh.edu or me at snd223@leigh.edu and join our new member group me here for more information.  We look forward to hearing from you! <br><br>
-Best, Sarah<br><br>
 
 <br />
 
@@ -108,23 +97,23 @@ Save these dates! We want to see y’all there!
 
 <br>
 
-## 101. `retrieve packet data` from Alumni 👩‍🎓
-
-><br>*“Try to take advantage of all events hosted by CSB, both networking and social. Creating a big network will be extremely beneficial as you complete your degree and beyond. There are Lehigh people everywhere and you never know when you’ll run into someone, either it is at a job opportunity or living in the same city after graduation.”* <br> **Komal Grover ‘20, former Alumni Relations Chair and Professional Development** <br><br>
-
-<br />
-
-## 110. `Decrypt` the Newsletter 🧩
+## 101. `Decrypt` the Newsletter 🧩
 
 Can you guess our numbering system and newsletter theme? It’s a little tricky! The first one to get it right and put their guess in the google form will get an Instagram spotlight post! 
 
-[Put in your guess here!](https://docs.google.com/forms/d/e/1FAIpQLSer7bKt_0Ok2z7Boakrskya5_9EcI626gtnFPPo0fkc5jsgmA/viewform?usp=pp_url) 
+<small>Some of you might've noticed last issue was **Star Wars**.</small>
+
+[Put in your guess here!](https://forms.gle/nVQzA8z8AFk2WPvTA) 
 
 <br />
 
 ## issue-2 $ `shutdown -r` 👋
 
-Hope y’all enjoyed this month’s newsletter! We’ll be back next month with more upcoming events, alumni advice, and a kick-off for the new academic year. Stay tuned and thanks for reading! Catch you guys later ✌️
+- Studied abroad? We want to feature you on our Instagram: [Upload here](https://forms.gle/nP9wENsiShtD18sk7)
+- Subscribe to the [CSBA calendar](https://calendar.google.com/calendar/u/0?cid=aW5jc2JhQGxlaGlnaC5lZHU) to stay up to date
+- Have something to share? Shoot our editor [Juhi Grover](mailto:jug225@lehigh.edu) an email
+
+Hope y’all enjoyed this month’s newsletter! We’ll be back next month with more upcoming events, alumni advice, and a kick-off for the new academic year. Stay tuned and thanks for reading! Catch y'all later ✌️
 
 <br />
 
@@ -135,8 +124,3 @@ Hope y’all enjoyed this month’s newsletter! We’ll be back next month with 
 [![Instagram Badge](https://img.shields.io/badge/-@lehighcsb-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://www.instagram.com/lehighcsb/)](https://www.instagram.com/lehighcsb/)
 [![GroupMe Badge](https://img.shields.io/badge/-@Lehigh_CSB-00aff0?style=flat-square&labelColor=00aff0&logo=groupme&logoColor=white&link=https://groupme.com/join_group/35276853/t4yllUCs)](https://groupme.com/join_group/35276853/t4yllUCs)
 [![Discord Badge](https://img.shields.io/badge/-@Lehigh_CSB-5865f2?style=flat-square&labelColor=5865f2&logo=discord&logoColor=white&link=https://discord.gg/5EDK9W4FGA)](https://discord.gg/5EDK9W4FGA)
-
-<br />
-
-If you are receiving this email by mistake and are not part of the CSB program, please contact amr424@lehigh.edu.
-
