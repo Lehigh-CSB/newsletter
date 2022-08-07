@@ -48,13 +48,3 @@ Best,
 
 Sarah
 
-  
-
-
-\-- 
-
-You received this message because you are subscribed to the Google Groups "csba_board22" group.
-
-To unsubscribe from this group and stop receiving emails from it, send an email to [csba_board22-list+unsubscribe@lehigh.edu](mailto:csba_board22-list+unsubscribe@lehigh.edu).
-
-To view this discussion on the web visit [https://groups.google.com/a/lehigh.edu/d/msgid/csba_board22-list/CACAeAbaoWyY7qFPt1QJpX%2BNxnsb6z6_b1Axxq5xcvTpOGB%2B9-Q%40mail.gmail.com](https://www.google.com/url?q=https://groups.google.com/a/lehigh.edu/d/msgid/csba_board22-list/CACAeAbaoWyY7qFPt1QJpX%252BNxnsb6z6_b1Axxq5xcvTpOGB%252B9-Q%2540mail.gmail.com?utm_medium%3Demail%26utm_source%3Dfooter&source=gmail-imap&ust=1659707543000000&usg=AOvVaw2EbJTfLoSUGKIDOcahAHM0).
