@@ -4,7 +4,7 @@
 
 <br />
 
-Thursday, August 3, 2022 *by Computer Science & Business Association*
+Sunday, August 7, 2022 *by Computer Science & Business Association*
 
 <br />
 
