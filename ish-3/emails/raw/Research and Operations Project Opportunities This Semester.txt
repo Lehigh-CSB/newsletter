@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title></title>
+<meta name="Generator" content="Cocoa HTML Writer">
+<meta name="CocoaVersion" content="2113.6">
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #000000; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Tahoma; color: #000000; -webkit-text-stroke: #000000}
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Arial; color: #000000; -webkit-text-stroke: #000000; min-height: 15.0px}
+p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Arial; color: #000000; -webkit-text-stroke: #000000}
+p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Arial; color: #535353; -webkit-text-stroke: #535353; min-height: 15.0px}
+p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Arial; color: #535353; -webkit-text-stroke: #535353}
+p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.8px Arial; color: #535353; -webkit-text-stroke: #535353}
+p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.8px Arial; color: #fd8608; -webkit-text-stroke: #fd8608}
+p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.8px Arial; color: #c1c1c1; -webkit-text-stroke: #c1c1c1}
+p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.8px Arial; color: #094fd1; -webkit-text-stroke: #094fd1}
+p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.8px Arial; color: #c1c1c1; -webkit-text-stroke: #c1c1c1; min-height: 15.0px}
+p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+p.p15 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
+p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
+li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Arial; color: #000000; -webkit-text-stroke: #000000}
+li.li6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Arial; color: #fb0007; -webkit-text-stroke: #fb0007}
+span.s1 {font-kerning: none}
+span.s2 {font: 14.7px Arial; text-decoration: underline ; font-kerning: none; color: #103cc0; -webkit-text-stroke: 0px #103cc0}
+span.s3 {-webkit-text-stroke: 0px #000000}
+span.s4 {font: 13.0px Arial; text-decoration: underline ; font-kerning: none; color: #094fd1; -webkit-text-stroke: 0px #094fd1}
+span.s5 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+span.s6 {font: 12.8px Arial; text-decoration: underline ; font-kerning: none; color: #094fd1; -webkit-text-stroke: 0px #094fd1}
+span.s7 {font: 13.0px Arial; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+span.s8 {font-kerning: none; color: #de7e2b; -webkit-text-stroke: 0px #de7e2b}
+span.s9 {font-kerning: none; color: #c1c1c1; -webkit-text-stroke: 0px #c1c1c1}
+span.s10 {font-kerning: none; color: #535353; -webkit-text-stroke: 0px #535353}
+span.s11 {text-decoration: underline ; font-kerning: none; color: #094fd1; -webkit-text-stroke: 0px #094fd1}
+ul.ul1 {list-style-type: disc}
+ul.ul2 {list-style-type: circle}
+</style>
+</head>
+<body>
+<p class="p1">From: Heidi Wegrzyn &lt;hew207@lehigh.edu&gt;</p>
+<p class="p1">Subject: Research and Operations Project Opportunities This Semester</p>
+<p class="p1">Date: August 25, 2022 at 9:41:56 AM EDT</p>
+<p class="p1">To: cse-ugrad@cse.lehigh.edu, crsc-ugrad@cse.lehigh.edu, csb-ugrad@cse.lehigh.edu</p>
+<p class="p2"><br></p>
+<p class="p3"><span class="s1">Everyone,</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">I hope your semester is off to a great start! I am writing to share the research and operations project opportunities available through OutreachISE this semester. Please see the attachments - they contain details on the application process and the descriptions of the projects.</span></p>
+<p class="p5"><span class="s1">Highlights:</span></p>
+<ul class="ul1">
+<li class="li5"><span class="s1">Research: 3 tracks, 6 projects, several specifically relevant to ECE and CSE students</span></li>
+<li class="li5"><span class="s1">Info session: Friday, Aug 26, 12:30 PM ET - MO 355 and on Zoom (link: <a href="https://www.google.com/url?q=https://lehigh.zoom.us/j/93187388535?pwd%3DekEvYkE2N3hoM3NJeEswTkdWbXhjZz09&amp;source=gmail-imap&amp;ust=1662039759000000&amp;usg=AOvVaw2L1xov3Vu6msdOtVrE50js"><span class="s2">https://lehigh.zoom.us/j/93187388535</span></a>)</span></li>
+<li class="li5"><span class="s1">Office hours for Q&amp;A: <br>
+</span></li>
+<ul class="ul2">
+<li class="li5"><span class="s1">Fri, Aug 26, 1:30 PM - 5 PM</span></li>
+<li class="li5"><span class="s1">Mon, Aug 29, 8:30 AM - 12 PM</span></li>
+<li class="li5"><span class="s1">Tue, Aug 30, 3:30 PM - 5:30 PM</span></li>
+</ul>
+<li class="li6"><span class="s3"></span><span class="s1">Application (resume + 1-3 paragraph statement) due by email (<a href="mailto:ana.alexandrescu@lehigh.edu"><span class="s4">ana.alexandrescu@lehigh.edu</span></a>) Tue, Aug 30, 8 pm</span></li>
+<li class="li5"><span class="s1">You will hear back by Thursday, Sep 1st</span></li>
+<li class="li5"><span class="s1">You will need to register for ISE 321 - Section 011 Independent Study by Friday, Sep 2nd, 4 PM</span></li>
+<li class="li6"><span class="s3"></span><span class="s1">All opportunities are open to other majors as well -- feel free to share this with your friends</span><span class="s5"><br>
+</span></li>
+</ul>
+<p class="p5"><span class="s1">I look forward to hearing from you and to working with you this semester.</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">Regards,</span></p>
+<p class="p5"><span class="s1">Ana</span></p>
+<p class="p7"><span class="s1"></span><br></p>
+<p class="p8"><span class="s1"><b>Ana-Iulia Alexandrescu-Anselm<span class="Apple-converted-space">&nbsp;</span></b></span></p>
+<p class="p9"><span class="s1"><b>Preferred </b><a href="https://www.google.com/url?q=https://www.mypronouns.org/she-her&amp;source=gmail-imap&amp;ust=1662039759000000&amp;usg=AOvVaw2W_uEKcz0Pv5_Txc798qKr"><span class="s6"><b>pronouns</b></span></a><b>: she, her</b></span><span class="s7"><b><i><span class="Apple-converted-space">&nbsp;</span></i></b></span></p>
+<p class="p9"><span class="s8">Professor of Practice </span><span class="s1">| Department of Industrial and Systems Engineering</span></p>
+<p class="p9"><span class="s8">Director</span><span class="s7"> </span><span class="s1">| Lehigh ISE Outreach Program (OutreachISE)</span></p>
+<p class="p9"><span class="s8">Director </span><span class="s1">| Healthcare Systems Engineering Program</span></p>
+<p class="p9"><span class="s8">Affiliate Faculty </span><span class="s1">| College of Health</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p9"><span class="s1">Lehigh University</span></p>
+<p class="p10"><span class="s1"><b>___________________________________________________________</b></span></p>
+<p class="p11"><span class="s1"><b>Office Hours&#xA0; </b><a href="https://www.google.com/url?q=https://calendly.com/ana-iulia/30mins&amp;source=gmail-imap&amp;ust=1662039759000000&amp;usg=AOvVaw01j1bDP8ktOMaJ5sQpgWlr"><span class="s4">by appointment</span></a></span></p>
+<p class="p12"><span class="s9"><b>Office</b></span><span class="s10"><b> </b>Virtual:<b> </b><a href="https://www.google.com/url?q=https://lehigh.zoom.us/my/ana.alexandrescu&amp;source=gmail-imap&amp;ust=1662039759000000&amp;usg=AOvVaw2HoCp6LX3KIpVA2AqHdOcv"><span class="s11">https://lehigh.zoom.us/my/ana.alexandrescu</span></a> | Campus: <a href="https://www.google.com/url?q=https://goo.gl/maps/L3SNKL6Nrrm3Ausw5&amp;source=gmail-imap&amp;ust=1662039759000000&amp;usg=AOvVaw0ujtmcZHc9wIQROE3e-JZZ"><span class="s11">Mohler Lab #389</span></a><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p5"><span class="s1">&#xA0;</span></p>
+<p class="p13"><span class="s1"><b></b></span><br></p>
+<p class="p14"><span class="s1"></span><br></p>
+<p class="p15"><span class="s1">--<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p16"><span class="s1">--&#xA0;</span></p>
+<p class="p15"><span class="s1"><b><i>Heidi Wegrzyn '96, '24P</i></b></span></p>
+<p class="p15"><span class="s1"><b><i>Academic Coordinator</i></b></span></p>
+<p class="p15"><span class="s1"><b><i>Computer Science &amp; Engineering Dept.</i></b></span></p>
+<p class="p15"><span class="s1"><b><i>113 Research Drive</i></b></span></p>
+<p class="p15"><span class="s1"><b><i>Bethlehem, PA 18015</i></b></span></p>
+<p class="p15"><span class="s1"><b><i>610-758-3065</i></b></span></p>
+</body>
+</html>

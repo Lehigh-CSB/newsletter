@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title></title>
+<meta name="Generator" content="Cocoa HTML Writer">
+<meta name="CocoaVersion" content="2113.6">
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #000000; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
+p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Helvetica; color: #000000; -webkit-text-stroke: #000000; min-height: 16.0px}
+p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
+p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; color: #000000; -webkit-text-stroke: #000000}
+span.s1 {font-kerning: none}
+span.s2 {font: 10.5px Helvetica; text-decoration: underline ; font-kerning: none; color: #094fd1; -webkit-text-stroke: 0px #094fd1}
+</style>
+</head>
+<body>
+<p class="p1">From: Heidi Wegrzyn &lt;hew207@lehigh.edu&gt;</p>
+<p class="p1">Subject: JAVA EXPERTISE</p>
+<p class="p1">Date: August 29, 2022 at 8:54:38 AM EDT</p>
+<p class="p1">To: cse-ugrad@cse.lehigh.edu, csb-ugrad@cse.lehigh.edu,<span class="Apple-converted-space">&nbsp; </span>crsc-ugrad@cse.lehigh.edu</p>
+<p class="p2"><br></p>
+<p class="p3"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1">Dan Graney, who is managing a project in Lehigh's Masters in Financial Engineering is looking for some coding help:</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1">"We need someone who is able to implement&#xA0;a CSV into javascript&#xA0;code to display an index on our website. Everyday a new CSV is created with an additional value, this CSV needs to be displayed&#xA0;in a graph or chart in the HTML code using javascript. Because I am not experienced in Java or Javascript I am having some trouble completing this task"</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1">If you have the skill set to help, reach out to Dan at&#xA0;<a href="mailto:djg224@lehigh.edu"><span class="s2">djg224@lehigh.edu</span></a></span></p>
+<p class="p6"><span class="s1">--<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p7"><span class="s1">--&#xA0;</span></p>
+<p class="p6"><span class="s1"><b><i>Heidi Wegrzyn '96, '24P</i></b></span></p>
+<p class="p6"><span class="s1"><b><i>Academic Coordinator</i></b></span></p>
+<p class="p6"><span class="s1"><b><i>Computer Science &amp; Engineering Dept.</i></b></span></p>
+<p class="p6"><span class="s1"><b><i>113 Research Drive</i></b></span></p>
+<p class="p6"><span class="s1"><b><i>Bethlehem, PA 18015</i></b></span></p>
+<p class="p6"><span class="s1"><b><i>610-758-3065</i></b></span></p>
+</body>
+</html>

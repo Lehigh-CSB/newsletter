@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title></title>
+<meta name="Generator" content="Cocoa HTML Writer">
+<meta name="CocoaVersion" content="2113.6">
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #000000; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 36.0px; font: 36.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Helvetica Neue'; color: #0000e9; -webkit-text-stroke: #0000e9; min-height: 14.0px}
+p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000; background-color: #000000; min-height: 16.0px}
+p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 24.0px; font: 18.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 14.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 14.0px 'Helvetica Neue'; color: #5c5e64; -webkit-text-stroke: #5c5e64}
+p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #0000e9; -webkit-text-stroke: #0000e9; min-height: 14.0px}
+p.p15 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Helvetica Neue'; color: #0000e9; -webkit-text-stroke: #0000e9}
+p.p17 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+p.p18 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: center; line-height: 20.0px; font: 12.0px 'Helvetica Neue'; color: #090909; color: rgba(9, 9, 9, 0.79); -webkit-text-stroke: rgba(9, 9, 9, 0.79)}
+li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+li.li8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #0000e9; -webkit-text-stroke: #0000e9}
+span.s1 {font-kerning: none}
+span.s2 {font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+span.s3 {color: #0000e9}
+span.s4 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9}
+span.s5 {color: #000000; -webkit-text-stroke: 0px #000000}
+span.s6 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+span.s7 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+span.s8 {text-decoration: underline ; font-kerning: none}
+span.s9 {font-kerning: none; background-color: #000000}
+table.t1 {background-color: #f2f2f2; border-collapse: collapse}
+table.t2 {background-color: #ffffff; margin: 0.0px 100.0px 0.0px 100.0px; border-collapse: collapse}
+table.t3 {border-collapse: collapse}
+table.t4 {margin: 20.0px 0.0px 20.0px 0.0px; border-collapse: collapse}
+td.td1 {width: 800.0px}
+td.td2 {width: 600.0px}
+td.td3 {width: 472.0px; padding: 1.0px 64.0px 0.0px 64.0px}
+td.td4 {width: 470.0px; padding: 1.0px 1.0px 1.0px 1.0px}
+td.td5 {width: 407.0px; padding: 0.0px 16.0px 0.0px 0.0px}
+td.td6 {width: 47.0px}
+ol.ol1 {list-style-type: decimal}
+</style>
+</head>
+<body>
+<p class="p1">From: "Center for Career &amp; Professional Development via joinhandshake.com" &lt;handshake@mail.joinhandshake.com&gt;</p>
+<p class="p1">Subject: Career Newsletter: Register for the Career Expo &amp; Expo Prep!</p>
+<p class="p1">Date: September 5, 2022 at 9:14:15 AM EDT</p>
+<p class="p1">To: amr424@lehigh.edu</p>
+<p class="p1">Reply-To: careercenter@lehigh.edu</p>
+<p class="p2"><br></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+<tbody>
+<tr>
+<td valign="top" class="td1">
+<table cellspacing="0" cellpadding="0" class="t2">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p3"><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<p class="p5"><span class="s1"><b>Hi Adrian,</b></span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">Are you interested in a <b>job or internship</b>?</span></p>
+<p class="p5"><span class="s1">Maybe you are still <b>exploring different industries and companies</b>.</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">Either way, the <b>Fall 2022 Virtual Career Expo is an excellent recruiting event and one to not be missed!</b><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p7"><span class="s1"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlkE1uxCAMhU8Tdo34H1iwqFTNBXoA5IBnQhvCCMj9y4zSbipZlvw92X42OqY1F0ZSRkl0xoTFkOQ45ZxaqphgkqlZK66iMGAj10YqmCTNkLb5q6R9hT22Fb5xDiWT1dGLMBgoBxHZohaLN2vpsljNL2gBLdnc2vujTeJ94tcRG67pvv6fNSSMx8gBKmL1N0i1jVJwfZGTuG6lTuKDTlwfPftWjhpwgAyt-ac7rKeUMaYjDwmf-ISh7B33PihjQihrfjnkB6T7PoRjT75DvWPH6F-9jVQHuUouxwdO38Mj6Y5b8fYZ1lI28neEf1l5NfoU3bnnB3hAdkw&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw0m8c83Coh8vohEeHjM7PHu"><span class="Apple-converted-space">&nbsp;</span><span class="s2"></span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<p class="p5"><span class="s1"><b>Join us on Thursday, September 15, 2022 for our Virtual Fall 2022 Career Expo. </b>This is an excellent opportunity to connect with employers through 1:1 &amp; group sessions with one of our largest recruiting events.</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<ol class="ol1">
+<li class="li5"><span class="s3"><b></b><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlUEFuxCAMfE24NQqGEHLgsFK1H-gDEAE30IawAvL_kijtpZJlyTOa8dioqBDAJB_oQJyS0i6SBAUDwDAPI2WU07EXI4yOSTM7EJKPpuNDNGHrv1LYvdld8eYbe5si8WoW08KmSVIGAoRtMkudXcBxauUyL2RTvtZX6dijg2erDX1Y_X-vRqE7WrcmI2b9aUIubWy-E-_Yc0u5Y--0A3HUqEs6ssUGRFOKPtNhvqmILhyxUXjCN2jTXnGvpwNlbJzlL27iy4R1b8SxB11NXrGi05e2kKxMzBx4-8Cdu2UkVcHM3j6sT2kjf0foK8ol1MGpe88PBqd15w&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw2pnMoBBUKIBgN-YjuNuJY5"><span class="s4"><b>Register</b></span></a></span><span class="s1"> for the virtual career expo below</span></li>
+<li class="li8"><span class="s5"></span><span class="s6">Review the <a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlkEtuxCAQRE9j7zLCgDFesIgU5QI5AGpDe0wCxuKzyO2DJ55sIiFEvRLVH1SDEJRJTgbSWyWlWWTvFCWUkpmMAxv4MN7ESEfLJMyWCslH6DgJ4PztM7p9g93mDb7wZmLoNwViBkIXkKOY5bLAgjCthNhpmlaOcu292ko5csdeO_rejsfN3bf_Wc3KpbbbQEJMegWXcpOMiol37P2AO3bsbeioOJr9lKTpHFPR1iU0xcW9UYvZPLmJvoZfuEL1pXEfU9O0vWoJOseazJkVIGd9DorpsgJaV0Oz8MQXNHEvuJez-MDYOMsnh3CAu5-l6u50gXTHglY__rZJGIbDx29MuU8KQuKUt8Ve60Bb-6LozF4-zBaj7_92ox9tPUK0s-qq-QP2yZRq&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw1CPnK6BsKiSoeA851q4Xmu"><span class="s7"><b>employers attending</b></span></a><span class="Apple-converted-space">&nbsp;</span></span></li>
+<li class="li5"><span class="s1">Build your expo day of schedule by adding 1:1 (ideal for those looking for internships &amp; full-time) and/or group sessions (great opportunity to learn more about a company or industry, <a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlkEFuxCAMRU8Tdh0FDIQsWFSq5gI9AGLAGWgDjIDcv8wo7aaSZcnvy_62UVMpGSg-05l4rZS7KRI1mxmb11lQoJyKixRMeFB29UwqLuzE52TjfvkqMQebfQv2Gy-uJBI0SLfgzQnpNvDMLwtfUCi38G1jw8aTXYfeH22C94ldR-wY4j38nzWk1o-Rna2I1Ww21jZKYHLhE1z3Uif4gInJoyfTylEdDpBsa-a5HdZTSujjkYaET3xCV3LH3AelFECs6pfb9LDxnodw5Gi6rXfs6M2rd9hDw9ZiyY1UbVPljI9nnCegP0jXbIW3TxdK2cnfPea11WuGiV6flj_mCXp2&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw2bKCoKSpH9NFgw_U080cU7"><span class="s7"><b>check out the available sessions</b></span></a> to get started!</span></li>
+</ol>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">We will be joined by employers from numerous industries! Explore open internships, full-times roles, companies, &amp; opportunities.</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">Student registration is open to all sophomores, juniors, seniors, &amp; grad students..so get started! &#x2935;</span></p>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<table cellspacing="0" cellpadding="0" class="t4">
+<tbody>
+<tr>
+<td valign="middle" class="td5">
+<p class="p9"><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p10"><span class="s1">Career Fair<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p11"><span class="s8"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlUMtuwyAQ_Bpzq2WWR_CBQ6QqP9APsDawDbTGRID_vyS1KkVdcdiZYYdZyHKtQRg58Yl5a4y7GhYtTADTPCkuuORq1AqUFwZnD9pIhYOcEsZ1_MpxC7j5GvCbRpcTC_Y691KcPAAZrg05JQ2ekIyWZpaSrTa0dq-DOA9w6WelEG_hv1eXHBaisnxiLLVDAfokB3FJWOtCjwRL9IN451wINZsB9JpLx7J3e0tLzXtx1InnwOM-lUNK5OOeuvS0OUiXt0Zbe3F88pjuGG9bF_YtLg3LjRr53wiVFYupSJD9V45dyO-sWZjF24cLOa_sb7HlJbs93vkBstZ7rQ&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw1U56II6Gqmkbxv9dls-hb_"><b>Lehigh University Virtual 2022 FALL Career Expo - September 15, 2022</b></a></span></p>
+<p class="p12"><span class="s1">Sep 15, 2022 &#x2022; 4:00pm - 7:00pm EDT</span></p>
+<p class="p13"><span class="s1">142 employers attending<span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+<td valign="middle" class="td6">
+<p class="p14"><span class="s9"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlUMtuwyAQ_Bpzq8Xb-MChUpUf6AdYa9gEWmMiwP9fklqVokocdmZ2Z2dBy7TmwkjKKPHWGLcaEi2nnNOZKiaYZGrUiisvDMyeayMVDJImiNv4leMeYPc1wDeOLicSLOermDROK6eTASHNOkvW0YpXR4E6stnQ2r0O4n3gl_42DPEW_nt1yUFBLMsVYqkdCq4nOYhLgloXfCRYoh_EB2NCqNkMXG-5dKx6dbS01HwUh514Djz6sZxSQh-P1KWnzUm6vDfc24vjk4d0h3jbu3DscWlQbtjQ_0aopFhIRXLZf-W8Bf1BmuWzePt0IeeN_B22vGS3554fE618Cw&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw0u7sv8o9CVX2FcfKCyOK8b"><span class="Apple-converted-space">&nbsp;</span><span class="s1"></span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p3"><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<p class="p5"><span class="s1">It is important to prepare for the Fall 2022 Virtual Career Expo in advance!</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">One way is to attend our Virtual Career Expo Prep! <b>Join us and get prepared for the expo with career coaches and employers</b><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<p class="p3"><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<table cellspacing="0" cellpadding="0" class="t4">
+<tbody>
+<tr>
+<td valign="middle" class="td5">
+<p class="p9"><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p10"><span class="s1">Event<span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p11"><span class="s8"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlUMtuxCAM_Jpwa8Q75MBhpWp_oB8QeYM30AZYBdLvL5tGlVaVfLBn7BnbaJnWXBhJGSXOGjPfDAmWU87pSBUTTDLVa8WVEwZGx7WRCjpJI4S1_8wheUiuePjCfs6ReKuEG0cQdwV6QDrwOxvkAMgYnZnSN0pW62t9lE5cOn5tsaIPi_-v1Sj8xlRLSxjVRhjTiWuEUiZ8uk_BdeKdMSHUaDqu17y1Wrdsr3Eqed9mbMAx8OzH7aQiurDHRh0yJzjnVJvZi-KBQ3xAWFIj9hSmCtuCFd3vCoVsFuImuWwfOe9At5Nq-SjePmaf80r-jppedrenzw9Pw3nO&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw3TGSwrVyO3pCxDX4G1FBbe"><b>Career Expo Prep</b></a></span></p>
+<p class="p12"><span class="s1">Sep 9, 2022 &#x2022; 10:00am - 4:00pm EDT<span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+<td valign="middle" class="td6">
+<p class="p14"><span class="s9"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlUEFuxCAMfE24NQIMhBw4VKr2A31ARMEKtAFWgfT9ZdOo0qqSD_aMPWMbDVOKgxaUUeKN1u5Dk2g45ZzOVDJggslRSS49aDt7rrSQdhA02biNnyXmYLOvwX7h6EoiwYiJSeF6N8xcO49MAHKBk2SMWjUD2Uxo7V4HeB34rceGIa7hv1an8Btzqz1hVGnQeoBbsrUu-HBfoh_gjTEAOeuBq63svZ56drS01HLsDjtwDjz6cb-ohD4eqVOnzAW6kls3e1I8cZvuNq65E0eOS7P7ig397wqV7MamXXDRP3Ldgf4gzfAZXt5dKGUjf0ctT7uby-cH6sF5dg&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw1Ut7ZW2MWLCH5ufSD3H2OL"><span class="Apple-converted-space">&nbsp;</span><span class="s1"></span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p3"><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<p class="p5"><span class="s1">&#x25B6;<b>Have questions about the Career Expo? </b>Start with our hirelehigh blog post: <a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJw9kF1uxCAMhE8T3hLxk7DwwEOlai_QA0QueBfaEFIgTY9fdpVWsmTpG409GjRMSi7USBklzihl3xUJhlPOqaYTE2xk0yAnPjmhQDsu1ThBN9IIYRk-Ulg9rK54-MTBpki80VpeqFT2IhlliIwicEtvDAFlG00W42vdSideOn5tcxzH4EPGBX24-8eVBrdUalvfIdcdlt5CRsw9_mypv8FX39zXJeVOvKqOy73GuaQ9W2wgQinzIx3mU4rowh6bhA98QpvWimttlDEhJv13x0LcINzXJuxrmCvkO1Z089NbSDYQ88jH1sCZF91OquFa9G_Wp7SQ_0LmZ5SncQ7OnH9-AS8Td2I&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw1GxebTj6xe3eBlzdd69eLr"><span class="s7"><b>Virtual Career Expo FAQs</b></span></a><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1"><b>&#x25B6; Career Lab </b>has fall semester hours ready to go. <b>Have your resume reviewed, maximize your Handshake account &amp; get ready for the career expo!</b> For details on days, times, &amp; location visit&#xA0;<a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlj0FuxCAQBF9jbrGAAYQPHCJF-4E8AGFgFxIDK8B5f7Dj5BJpNIfqVk-PV0QICpJhgpFTUtpVoqgophQvmBMgjPBZcModSLM4KiTjZmI4mbjNHyXmYLJrwXz62ZaEgrLAVikEXiyHu8QWKAhLOAAl2K93izYVen-2CV4nehuz-RAf4X_WkLzbj_3lcx_-21bqBG94omLvSbeyV-sHSKY1ffTx9ZKSd3FPQ_IHvqA16WniIw-856i7qQ_fvdOnpw3TT_zyay-5j7uDEALAF4mqMqkyysb3V-fRD3VFF3h5t6GUDf09oM9SZ7SOTl0R35W8dF8&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw2db7K74-BVrm3Kk4xIMMK3"><span class="s7"><b>Handshake Events</b></span></a>&#xA0;&amp; search 'career lab'. This is our drop-in career support for career questions.</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1"><b>&#x25B6; Career Coaching&#xA0;</b>appointments are also available for individualized action-planning!&#xA0;<a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxlkM1qxSAQhZ8m7hr8xyxcFMp9gT6AeHUabaMGNfT1a0LaTWEQ5jvDmTOCJlJSpjgmGHmtlHsqFDXFlOIFC8IIJ2KWggrPlF08lYoLO3GcbNzmzxJzsNm3YL9gdiWhoJVVEgNn3nHxdFyB5CDhQ3HAgi9OoU2H3vc2sdeJPkZtEOIa_nsNCfwxXrvvQ-sJcm-jzfA9scdW6sTeyETl0ZNp5agOBki2NXNmg3pLCXw80pDgxDd0Nu02rnngI0fTbV2hgzfXzFgib3v8O19yH-tPRBgTi0JV21Q55eMr7gNGWNQ1XdjLuwulbOjvGnOlurxN9Pq2-AFzG3l-&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw2CRuuwQy2b2iQVnMgbBuha"><span class="s7"><b>Start here</b></span></a> to schedule an appointment with a career coach.</span></p>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p3"><span class="s1"><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td3">
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td4">
+<p class="p15"><span class="s1"><b>The Center for Career &amp; Professional Development</b></span></p>
+<p class="p15"><span class="s7"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxFj0FuxCAMRU8Tdo2wDSlZsKhUzQV6gIgBd6ANYUTI_UtG7VRiYb1nvm22ME1IRkmQIlhj_NWIZFEiyllqIFCgx0mjDmTcHHAySrtByezSOn6VtEW3hT26bx59ySLaV9ZkPKDGoCZNV-glA4XPTtBcQaw2tnbfB3ob8NKfd5W5et4a13HlmG5x5HCcki5Hy8tejq4Hes9u35dzMNcBp1NlDunIXfGJf6EvPWprnSLOM6o_7PLdpdvW-bGlpbl648ZheXzde9Naanf0rABEtS5X1SOU_N9MNIszvXz4WMoqnvcvj_UeaUsKFoBIz-YHRi1vIg&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw3d1zwEM70syTWdCCgW9iT7"><b>careercenter.lehigh.edu</b></a></span><span class="s1"><b>&#xA0;I 610-758-3710 I careercenter@lehigh.edu</b><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p16"><span class="s8"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxljkFuxCAMRU8Tdo3AhogsWFSq5gI9QOQBN9CGMErI_Uui6WwqeYHew9-fnRoGQKulkiI4a_3diuRAAshRGoVKK9MPBkxAS2OAwWpDnZaZ0tJ_l7RGWsMe6Yd7X7KIDoE4WLT-S46gpbdMnnFQBoMKdyaxuFjrY-_wvYNbm4VjmuP_rNPi7ah52suxee7wI9O-T-dl3joYTpU5pCM3xSd-Ql_WymttFGBsJf4w5QeleW38WNNUaZu5cpiu1b19WsrWnH69FIjNUd50i9Dy2ZPDIaqDEd8-fSxlEa_S01XvSptScEohmtH-AhBUcNw&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw3CDv_SD6zL1LaoQGdrPvl9"><b>lehigh.joinhandshake.com</b></a></span><span class="s6"><b>&#xA0;I&#xA0;</b><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJw9j0FuxCAMRU8Tdo0AQ4YsWIxUzQV6gMgBd6ANYUSIcv0mUTqSF9b79v82WdF1EozigjNvjXGjYdFKLiXvuRYglNBtp6X2YLD3sjNKY6N4wji1PznOAWe_BPyl1uXEghWkBXcjeIXdN96U4xxuakTliUCOnE021PpaGrg38rHXtm1tiIUmCvEZDpeDw2OtaVjyWhw18JlwWYYjk0oju0NK5OOadokOfEGH6YXxOe94neNQsTypkh_OmWUfmnLZNf3uBPxv5rnSXA8kAHRvWLGYipJqf_Y6jfzKqpU9fHy5kPPE3r8P531nyhC9vSz-AIcWboI&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw0jcMUaeOSwQSQMv1GU1iqy"><span class="s7"><b>&#xFEFF;Hire Lehigh Blog</b></span></a><b>&#xA0;</b><span class="Apple-converted-space">&nbsp;</span></span></p>
+<p class="p16"><span class="s8"><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJw9kE1uAyEMhU8z7DriP7BgEanKBXqAkTOQgXaACBjl-oU0jeSF9b1n-8nOECkpUxwTjKxRar0qFAzFlGKNBWGEEzFLQYVlCrSlUnEBE8cRwj5_55A8JFs9_Lh5zRF5424nDCd9ZUpT0De9khOXjjEu4WqFBbQb39q9Tuw80Uuvx-Mxh1QbbAXiWNLZ7nzY_ArFubK61FwZXnY5WlxqPjqb2GeEWpeRY6hySNHZcMQuuYFfcIV4h7Cljo8UlgZlc83Z5emp3bTn0jX57gj_n8z9cmoDEcaEVqgYiIVT3h_wF3F29kDNUM0-vlaf847e_1ie-Z5XlmDNa8UvNN12Lw&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw06wCY0aa1niSvSXfMWz6G8"><b>Instagram</b></a></span><span class="s6"><b>&#xA0;I&#xA0;</b><a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJw9kM1OxCAURp-m7Kbhp7SwYGHUJi5cmVkTBkjBKTC2YPXtpXU0uYub8305ublWoL7HhHUQQWAEY_rCgBcYYgw5pIigDtG2p5gawhQ3uGcdVU0Hg_Jz-558dCqa1amrbXUKwAlCEYfYIkgMQkNP4WDwoC-UUz4MWlMwC5fzbW3IQ4PHOtu2td-p5HI5FJXo6ox2rtv5kbx-PMuTvNLzOPHgXrCXX59TQ8Y5LQ15GhrclxzkmsqibQVBravcj7PLPQrW-BJqZHd8h1qFm_JTrLhEL7NaJputkUdnraVfPaJ__RSzjXlHiBDKGViECkuHu_qL2To_udaaArLAnJzetEtpBv-vkcdVh1t6I-6KH94gd8I&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw0UqfkVsNyniHElbF99lIKg"><span class="s7"><b>Hire Lehigh YouTube</b></span></a><b>&#xFEFF;</b><span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+<td valign="top">
+<p class="p6"><span class="s1"></span><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p4"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t2">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<table cellspacing="0" cellpadding="0" class="t1">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p17"><span class="s1">&#xA0;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p6"><span class="s1"></span><br></p>
+<table cellspacing="0" cellpadding="0" class="t3">
+<tbody>
+<tr>
+<td valign="top" class="td2">
+<p class="p18"><span class="s1">This email is being sent to Adrian Ross at Lehigh University. <br>
+<a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/u/eJw9zcERwiAQAMBq5CfDAZdwD6qwgMzBEUFDmEm0f_VjA7sSQ8gpqBatsdaQQXDgAfWEFsUFJrFT8MgXbzq3TT9G2yvvclZ-Fp1HVzVKmgloFQlsZ_ScMhIK-LQCE5aijsj98NZ_ka3Udq-6yFu9oiV3veU6xqb-5tL5PJfyy5YmEcA5pPABDQYzWA&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw1FvAI7_gSieKpL4G3yk7HD"><span class="s7">Unsubscribe</span></a> &#x2022; <a href="https://www.google.com/url?q=https://email.mail.joinhandshake.com/c/eJxljzFuxSAQRE9juliwCwQKijS5QA5gYVgHEhss4N8__OY3kUaa0RRPM-SE1oBGcsFZdMaE3bDsgANwy5VAIYVatQIV0XgbQRup_CL55fO5_tRcki-xJ_9La6gXS04rnDjDcddRAu1SHwfuaARFDVy-s9OlMe6-4McCn1P-vv-DZv_o1Pp0UMKAAjtjqSMfOfiRa9nuRgc1KoE6a85fTYKcw05K-TutFB9sOLD49hVSrSd74bfL977R88CWoxMCUVnzB7vcUaE&amp;source=gmail-imap&amp;ust=1662988819000000&amp;usg=AOvVaw1q_xUI5Lp1itC-MTcOBWTi"><span class="s7">Update preferences</span></a> <br>
+P.O. Box 40770, San Francisco, CA 94140<span class="Apple-converted-space">&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p6"><span class="s1"><span class="Apple-converted-space">&nbsp;&nbsp;</span></span></p>
+</body>
+</html>
