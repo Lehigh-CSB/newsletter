@@ -35,17 +35,21 @@ The time has come for the First Year Representative (FYR) to be chosen for the 2
 You will also need to prepare a **1-2 minute speech** for the elections! The First-Year Representative election will be on **September 27 at 5:30pm**, during one of our in-person CSBA meetings.
 
 Feel free to email incsba@lehigh.edu for any questions, or a past First-Year Rep:
-Adrian Ross - past FYR, current President (amr424@lehigh.edu)
-Liz Attumalil - past FYR, current Secretary (esa225@lehigh.edu)
+
+- Adrian Ross - past FYR, current President (amr424@lehigh.edu)
+- Liz Attumalil - past FYR, current Secretary (esa225@lehigh.edu)
 
 Good luck candidates!
 
+<br />
 
 ## 🗓 CSBA Meeting Tuesday, 09/27
 
 With FYR applications comes a CSBA meeting, join us in **Room #490 of the STEPs building** from 5:30 – 6:30 PM for the weekly CSBA Executive board meeting and our First Year Representative elections. A link will be shared in the GroupMe tomorrow of all submitted applications so you can review them before the meeting. There will be a zoom alternative for non-applicants but we would love to see you in-person.
 
 Come by to also meet CSB co-directors Sharon Kalafut and Troy Adair, as well as our newest academic advisor Andrea Goff. We look forward to seeing you there.
+
+<br />
 
 ## 💻 FY Mentorship Program
 
@@ -63,11 +67,15 @@ First years! Ready for your first hackathon experience? This is the hackathon fo
 	
 These are just a few events that are coming up, so stay tuned to know more about the other events by clicking [here](https://docs.google.com/document/d/1pjEoheXrlzp9ZYbUKmMRqLZxe1k48QzdTgLj_UaFh9c/edit?usp=sharing). We would love to see y’all there!
 
+<br />
+
 ## 📝 Feedback
 
 We are starting an initiative where we regularly get your feedback on how CSBA is doing. We would appreciate if you could fill out this quick 3 minute anonymous survey. Ideally, we will share the results on Tuesday’s meeting. 
 
 **[Link To Survey](https://docs.google.com/forms/d/e/1FAIpQLScU1hs5VZpdEZ4eqFqwcY7y8v3dB_o4eikK-nOlNOSQ6MivKw/viewform?usp=sf_link)**
+
+<br />
 
 And that’s all folks! Have a good rest of your Sunday and hope to see you all Tuesday!
 
